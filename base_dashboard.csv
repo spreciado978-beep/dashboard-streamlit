@@ -1,0 +1,41 @@
+Nombre,Fecha de nacimiento,Edad,Estatura (m),Estatura (cm),Peso (kg),IMC,Clasificación IMC,Tipo de Sangre,Color de Cabello,Barrio,Talla Zapato
+Estudiante 1,2008-02-01,17,1.57,157,53.3,21.6,Adecuado,B-,Negro,Barrio 20,44
+Estudiante 2,2008-12-30,16,1.68,168,57.5,20.4,Adecuado,O+,Pelirrojo,Barrio 4,34
+Estudiante 3,2007-05-11,18,1.58,158,62.7,25.1,Sobrepeso,A+,Negro,Barrio 19,41
+Estudiante 4,2008-07-18,17,1.54,154,67.8,28.6,Sobrepeso,B+,Negro,Barrio 3,37
+Estudiante 5,2008-02-05,17,1.77,177,56.2,17.9,Bajo peso,AB+,Rubio,Barrio 19,39
+Estudiante 6,2008-01-01,17,1.63,163,58.5,22.0,Adecuado,O-,Castaño,Barrio 20,41
+Estudiante 7,2009-09-21,16,1.66,166,51.1,18.5,Adecuado,B+,Castaño,Barrio 7,37
+Estudiante 8,2007-11-11,18,1.54,154,50.4,21.3,Adecuado,A+,Negro,Barrio 20,36
+Estudiante 9,2009-06-27,16,1.61,161,66.5,25.7,Sobrepeso,O-,Pelirrojo,Barrio 9,42
+Estudiante 10,2005-05-02,20,1.66,166,70.8,25.7,Sobrepeso,O+,Castaño,Barrio 1,36
+Estudiante 11,2006-04-12,19,1.56,156,59.4,24.4,Adecuado,A+,Pelirrojo,Barrio 8,42
+Estudiante 12,2008-05-23,17,1.68,168,68.0,24.1,Adecuado,B+,Castaño,Barrio 7,35
+Estudiante 13,2005-11-27,19,1.6,160,62.9,24.6,Adecuado,A-,Pelirrojo,Barrio 18,35
+Estudiante 14,2009-01-22,16,1.63,163,54.8,20.6,Adecuado,B-,Rubio,Barrio 8,35
+Estudiante 15,2005-03-29,20,1.6,160,62.9,24.6,Adecuado,AB+,Pelirrojo,Barrio 1,39
+Estudiante 16,2008-10-28,17,1.8,180,72.3,22.3,Adecuado,B+,Rubio,Barrio 11,36
+Estudiante 17,2008-01-29,17,1.65,165,59.7,21.9,Adecuado,O-,Rubio,Barrio 18,42
+Estudiante 18,2007-05-22,18,1.57,157,72.5,29.4,Sobrepeso,A+,Pelirrojo,Barrio 10,37
+Estudiante 19,2009-08-15,16,1.72,172,39.0,13.2,Bajo peso,B-,Rubio,Barrio 3,34
+Estudiante 20,2005-05-11,20,1.55,155,66.6,27.7,Sobrepeso,A+,Negro,Barrio 7,37
+Estudiante 21,2009-08-13,16,1.67,167,60.7,21.8,Adecuado,O-,Rubio,Barrio 16,34
+Estudiante 22,2008-08-25,17,1.49,149,57.6,25.9,Sobrepeso,A+,Castaño,Barrio 16,38
+Estudiante 23,2007-02-09,18,1.54,154,60.7,25.6,Sobrepeso,A-,Pelirrojo,Barrio 20,37
+Estudiante 24,2005-12-10,19,1.67,167,44.1,15.8,Bajo peso,B-,Negro,Barrio 17,41
+Estudiante 25,2009-02-24,16,1.71,171,58.2,19.9,Adecuado,B-,Pelirrojo,Barrio 2,41
+Estudiante 26,2008-12-08,16,1.66,166,62.9,22.8,Adecuado,O-,Castaño,Barrio 1,40
+Estudiante 27,2007-03-17,18,1.64,164,71.8,26.7,Sobrepeso,AB+,Castaño,Barrio 16,36
+Estudiante 28,2006-01-21,19,1.63,163,55.9,21.0,Adecuado,A-,Castaño,Barrio 12,34
+Estudiante 29,2008-04-30,17,1.53,153,53.5,22.9,Adecuado,B+,Rubio,Barrio 5,34
+Estudiante 30,2007-08-14,18,1.59,159,56.0,22.2,Adecuado,A+,Rubio,Barrio 5,44
+Estudiante 31,2005-10-04,20,1.61,161,67.3,26.0,Sobrepeso,O+,Pelirrojo,Barrio 9,36
+Estudiante 32,2008-03-30,17,1.73,173,62.6,20.9,Adecuado,A+,Pelirrojo,Barrio 9,39
+Estudiante 33,2006-04-05,19,1.68,168,55.8,19.8,Adecuado,A+,Negro,Barrio 3,40
+Estudiante 34,2008-08-30,17,1.51,151,64.1,28.1,Sobrepeso,B+,Negro,Barrio 19,39
+Estudiante 35,2005-01-22,20,1.68,168,60.8,21.5,Adecuado,A+,Pelirrojo,Barrio 16,39
+Estudiante 36,2005-09-10,20,1.62,162,67.7,25.8,Sobrepeso,A-,Rubio,Barrio 16,39
+Estudiante 37,2007-01-18,18,1.6,160,54.4,21.2,Adecuado,A-,Castaño,Barrio 3,36
+Estudiante 38,2007-05-07,18,1.7,170,57.4,19.9,Adecuado,B-,Pelirrojo,Barrio 20,39
+Estudiante 39,2009-05-04,16,1.73,173,56.9,19.0,Adecuado,O-,Negro,Barrio 1,41
+Estudiante 40,2006-04-20,19,1.72,172,48.3,16.3,Bajo peso,AB+,Rubio,Barrio 20,44
